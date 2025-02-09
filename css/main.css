@@ -30,6 +30,7 @@ body {
 .navbar {
     background: #2b2c2c !important;
     padding: 30px 0;
+    height: 200px;
 }
 
 .navbar .nav-item {
